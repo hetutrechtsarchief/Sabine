@@ -28,4 +28,4 @@ De spreadsheet afkomstig uit het script bevat fuzzy matches tussen de 2 lijsten 
 
 * HUA-Sabine-Fuzzy-Matches-score-vanaf-50pct-19-april-2022.xlsx
 
-
+<img src="screenshot.png" width="500">
